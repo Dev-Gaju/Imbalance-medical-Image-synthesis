@@ -1,5 +1,17 @@
 
 
+ 
+[![0-0.png](https://i.postimg.cc/bYxR91xf/0-0.png)](https://postimg.cc/4n3tJ72W) 
+[![15-0.png](https://i.postimg.cc/qMgzvTMD/15-0.png)](https://postimg.cc/rKX8f745)
+[![24-0.png](https://i.postimg.cc/RFzgvd7G/24-0.png)](https://postimg.cc/1gJGHpYN)
+
+### Result is after completing the epoches into one another (<a href="https://www.kaggle.com/code/gazu468/cyclegan-implementation-with-imbalance-dataset/notebook">Kaggle Notebook</a>)
+* 1st  result after 1 epoch
+* 2nd result is after completing 15 epoch
+* 3rd result is completing 25 epochs
+
+
+
 ### Major Requirements
 
 This code requires
